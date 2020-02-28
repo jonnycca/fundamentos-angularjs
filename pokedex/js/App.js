@@ -1,2 +1,2 @@
 // **  Criando módulo que iniciará a aplicação **
-angular.module('pokedexApp', []);
+angular.module('pokedexApp', ['ngRoute']);
